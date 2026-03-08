@@ -39,7 +39,7 @@ def approximate_reflector_pattern(theta, theta_3, sll_db, d_peak):
 def main():
     st.set_page_config(page_title="Antenna Radiation Patterns", layout="wide")
     st.title("Antenna Radiation Pattern Analysis")
-    st.markdown("Based on CICAD 2025 - Assignment Solutions")
+   
 
     st.header("Part (b): High-Efficiency Horn at 20 GHz")
     
